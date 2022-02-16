@@ -2,7 +2,7 @@
 * Date, June 13th
 * Location: Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081HV Amsterdam, The Netherlands
 
-This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held on June 13-17th, at the Vrije Universiteit Amsterdam. 
+This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held at the Vrije Universiteit Amsterdam.
 
 ![Human Agent Interaction](./images/ha-interaction.jpg)
 
