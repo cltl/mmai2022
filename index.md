@@ -4,7 +4,7 @@
 
 This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held on June 13-17th, at the Vrije Universiteit Amsterdam. 
 
-![Human Agent Interaction](https://github.com/cltl/mmai2022/blob/main/images/ha-interaction.jpg)
+![Human Agent Interaction](./images/ha-interaction.jpg)
 
 ### Motivation
 Interaction is a real world event that takes place in time and physical or virtual space. By definition it only exists when it happens. This makes it difficult to observe and study interactions, to share interaction data, to replicate or reproduce them and to evaluate agent behavior in an objective way. Interactions are also extremely complex, covering many variables whose values change from case to case. The physical circumstances are different, the participants are different and past experiences have an impact on the actual event. Besides, the eye(s) of the camera(s) and/or experimenters are another factor with impact and the man-power needed to capture such data is high. Finally, privacy issues make it difficult to simply record and publish interaction data freely.
