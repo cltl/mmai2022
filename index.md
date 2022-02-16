@@ -49,6 +49,9 @@ TBD
 * Piek Vossen, Vrije Universitet Amsterdam, piek.vossen@vu.nl
 * Catharine Oertel, Delft University, C.R.M.M.Oertel@tudelft.nl
 * Sean Andrist, Microsoft, sandrist@microsoft.com
+* André Pereira, Royal Institute of Technology Stockholm, atap@kth.se
+* Dan Balliet, Vrije Universiteit Amsterdam, d.p.balliet@vu.nl
+* Hayley Hung, Delft University of Technology, h.hung@tudelft.nl
 
 ### Contact
 
