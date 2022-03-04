@@ -19,7 +19,9 @@ In addition to this focus on the representation and evaluation of multimodal int
 
 We invite submissions of long and short papers focusing on advancement in multimodal datacollection for conversational AI. Papers can cover experimental, theoretical research but also tools, platforms and practical engineering challenges. We invite researchers and developers to share with us how and why they record multimodal interactions, whether their data can be shared or combined with other data, how systems can be trained and evaluated, and how results can be reproduced.
 
-All papers must be original and not simultaneously submitted to another journal or conference. We invite work-in-progress submissions, blue-sky papers and demonstrations. Submitted papers should conform to the latest ACM LaTeX or Word publication format. For LaTeX templates and examples, please click on the following link: https://www.acm.org/publications/taps/word-template-workflow, download the zip package entitled Primary Article Template - LaTeX. The review will be blind (one-way anonymized review). Proceedings will be published through arXiv by each individual author and links to the papers will be hosted on the workshop website. The following paper categories are welcome:
+All papers must be original and not simultaneously submitted to another journal or conference. We invite work-in-progress submissions, blue-sky papers and demonstrations. The review will be blind (one-way anonymized review). Proceedings will be published through arXiv by each individual author and links to the papers will be hosted on the workshop website. Submitted papers should conform to the latest ACM LaTeX or Word publication format. [Click here for LaTeX templates and examples](https://www.acm.org/publications/taps/word-template-workflow) (download the zip package entitled Primary Article Template - LaTeX).
+
+The following paper categories are welcome:
 
 * __Full papers__ may consist of up to 8 pages of content, plus unlimited pages of references.
 * __Posters__ may consist of up to 4 pages of content, plus unlimited pages of references.
