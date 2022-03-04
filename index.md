@@ -17,11 +17,14 @@ In addition to this focus on the representation and evaluation of multimodal int
 
 ## Call for papers
 
-We invite submissions of long and short papers focusing on advancement in multimodal datacollection for conversational AI.Papers can cover experimental, theoretical research but also tools, platforms and practical engineering challenges. We invite researchers and developers to share with us how and why they record multimodal interactions, whether their data can be shared or combined with other data, how systems can be trained and evaluated and how results can be reproduced.
-The details for the call for paper and the instructions for the submissions can be found on the [EasyChair page]( https://easychair.org/cfp/MMAI2022).
+We invite submissions of long and short papers focusing on advancement in multimodal datacollection for conversational AI. Papers can cover experimental, theoretical research but also tools, platforms and practical engineering challenges. We invite researchers and developers to share with us how and why they record multimodal interactions, whether their data can be shared or combined with other data, how systems can be trained and evaluated, and how results can be reproduced.
 
-We invites submissions of long and short papers focusing on advancement in multimodal datacollection for conversational AI. Papers can cover experimental, theoretical research but also tools, platforms and practical engineering challenges. We invite researchers and developers to share with us how and why they record multimodal interactions, whether their data can be shared or combined with other data, how systems can be trained and evaluated and how results can be reproduced.
+All papers must be original and not simultaneously submitted to another journal or conference. We invite work-in-progress submissions, blue-sky papers and demonstrations. Submitted papers should conform to the latest ACM LaTeX or Word publication format. For LaTeX templates and examples, please click on the following link: https://www.acm.org/publications/taps/word-template-workflow, download the zip package entitled Primary Article Template - LaTeX. The review will be blind (one-way anonymized review). Proceedings will be published through arXiv by each individual author and links to the papers will be hosted on the workshop website. The following paper categories are welcome:
 
+* __Full papers__ may consist of up to 8 pages of content, plus unlimited pages of references.
+* __Posters__ may consist of up to 4 pages of content, plus unlimited pages of references.
+
+The Call for Papers, including instructions for the submissions, can also be found on the [EasyChair page]( https://easychair.org/cfp/MMAI2022).
 
 ### Important dates
 
@@ -38,12 +41,16 @@ We invites submissions of long and short papers focusing on advancement in multi
 * Standardization of representations
 * Types of interactions: purposeful, entertaining
 * Evaluating interactions
+* Simulation for training and evaluation
+* Inspiring interactive challenges and benchmarks
+* Tools and platforms for building interactive agents
 * Sharing of data and agents
 * Data privacy
 
 ### Program Committee
 
 TBD
+
 ### Organizing committee
 
 * Piek Vossen, Vrije Universitet Amsterdam, piek.vossen@vu.nl
@@ -56,4 +63,3 @@ TBD
 ### Contact
 
 All questions about submissions should be emailed to piek.vossen@vu.nl
-
