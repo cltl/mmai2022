@@ -30,7 +30,7 @@ The Call for Papers, including instructions for the submissions, can also be fou
 
 ### Important dates
 
-* May, 1st 2022: Deadline for paper submissions
+* May, 8th 2022: Deadline for paper submissions [POSTPONED BY ONE WEEK]
 * May, 15th 2022: Notification of acceptance
 * June 13th 2022: One-day-workshop
 
