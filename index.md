@@ -32,9 +32,9 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 | André Meyer-Vitali and Wico Mulder | Trustworthy Hybrid Team Decision-Support Systems |
 | Abstract | The aim to empower human users of artificially intelligent systems be- comes paramount when considering coordination in hybrid teams of humans and autonomous agents. Hereby, we consider not only one-to-one interactions, but also many-to-many situations (multiple humans and multiple agents), where we strive to make use of their complementary capabilities. Therefore, mutual awareness of each others’ strengths and weaknesses is crucial for beneficial coordination. In order to address these goals, and in accordance with a hybrid theory of mind, we propose the use of trustworthy interaction patterns and epistemic orchestration with intentions and causal models. The interaction patterns we describe are based on previous work on modular design patterns for hybrid team actors. Epistemic orchestration, a con- cept for explicit representation of intentions and causal relationships with the goal of specifying team architectures and their interactions, is being explored. While the current ideas are only a preliminary formulation of what will be developed further, a realistic use case is described as an experimental playground. |
 | | [Full paper](./papers/MMAI2022_paper_9864.pdf) |
-| 14:00 - 15:00| Interaction analysis & discussion |
+| 14:00 - 15:00 | Interaction analysis & discussion: the interaction data that is collected in the morning and analysed through some tooling |
 | 15:00 - 15:15 | Break |
-| 15:15 - 16:15 | Panel on sharing multimodal interaction data |
+| 15:15 - 16:15 | Panel on sharing multimodal interaction data (details follow soon) |
 | 16:15 - 17:015| Keynote by Dan Bohus, Microsoft |
 | 17:15 - | Drinks
 
