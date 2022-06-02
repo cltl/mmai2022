@@ -36,7 +36,7 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 | 14:00 - 15:00 | Interaction analysis & discussion: the interaction data that is collected in the morning and analysed through some tooling |
 | 15:00 - 15:15 | Break |
 | 15:15 - 16:15 | Panel on sharing multimodal interaction data (details follow soon) |
-| 16:15 - 17:015| Keynote by Dan Bohus, Microsoft |
+| 16:15 - 17:15| Keynote by Dan Bohus, Microsoft |
 | 17:15 - | Drinks
 
 
