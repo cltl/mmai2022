@@ -12,8 +12,8 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 
 | Time | Title & Abstract |
 | :------ | :------ |
-| 9:15 - 9:30 | Welcome |
-| 9:30 - 11:00 |  oral papers |
+| 09:15 - 09:30 | Welcome |
+| 09:30 - 11:00 |  oral papers |
 | Na Li and Robert Ross | Transferring Studies Across Embodiments: A Case Study in Confusion Detection |
 | Abstract | Human-robot studies are expensive to conduct and difficult to con- trol, and as such researchers sometimes turn to human-avatar in- teraction in the hope of faster and cheaper data collection that can be transferred to the robot domain. In terms of our work, we are particularly interested in the challenge of detecting and mod- elling user confusion in interaction, and as part of this research programme, we conducted situated dialogue studies to investigate users’ reactions in confusing scenarios that we give in both physical and virtual environments. In this paper, we present a combined review of these studies and the results that we observed across these two embodiments. For the physical embodiment, we used a Pepper Robot, while for the virtual modality, we used a 3D avatar. Our study shows that despite attitudinal differences and technical control limitations, there were a number of similarities detected in user behaviour and self-reporting results across embodiment options. This work suggests that, while avatar interaction is no true substitute for robot interaction studies, sufficient care in study de- sign may allow well executed human-avatar studies to supplement more challenging human-robot studies. |
 | | [Full paper](./papers/MMAI2022_paper_0671.pdf) |
