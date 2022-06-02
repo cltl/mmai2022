@@ -10,8 +10,8 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 
 ### Provisional Program, Room HG-02A24
 
-| Time | Topic |
-| :--- | :--- |
+| Time | Title & Abstract |
+| :------ | :------ |
 | 9:15 - 9:30 | Welcome |
 | 9:30 - 10:30 | Interaction session, three different agent setups are open to the participants for interaction, your experience and data will be used for the discussion later |
 | 10:30 - 12:00 |  papers |
