@@ -3,6 +3,8 @@
 * Location: Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081HV Amsterdam, The Netherlands
 * Room:  HG-02A24
 
+The workshop will take place in the [main building](https://vu.nl/en/about-vu/more-about/vu-campus-map) of the Vrije Universiteit of Amsterdam. Room HG-02A24 is available on the second floor in the A-wing. 
+
 This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held at the Vrije Universiteit Amsterdam.
 
 ![Human Agent Interaction](./images/ha-interaction.jpg)
@@ -54,12 +56,8 @@ We invite submissions of long and short papers focusing on advancement in multim
 
 All papers must be original and not simultaneously submitted to another journal or conference. We invite work-in-progress submissions, blue-sky papers and demonstrations. The review will be blind (one-way anonymized review). Proceedings will be published through arXiv by each individual author and links to the papers will be hosted on the workshop website. Submitted papers should conform to the latest ACM LaTeX or Word publication format. [Click here for LaTeX templates and examples](https://www.acm.org/publications/taps/word-template-workflow) (download the zip package entitled Primary Article Template - LaTeX).
 
-The following paper categories are welcome:
 
-* __Full papers__ may consist of up to 8 pages of content, plus unlimited pages of references.
-* __Posters__ may consist of up to 4 pages of content, plus unlimited pages of references.
-
-The Call for Papers, including instructions for the submissions, can also be found on the [EasyChair page]( https://easychair.org/cfp/MMAI2022).
+The Call for Papers, including instructions for the submissions, can be found on the [EasyChair page]( https://easychair.org/cfp/MMAI2022).
 
 ### Important dates
 
@@ -81,10 +79,6 @@ The Call for Papers, including instructions for the submissions, can also be fou
 * Tools and platforms for building interactive agents
 * Sharing of data and agents
 * Data privacy
-
-### Program Committee
-
-TBD
 
 ### Organizing committee
 
