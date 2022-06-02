@@ -3,9 +3,7 @@
 * Location: Vrije Universiteit Amsterdam, De Boelelaan 1105, 1081HV Amsterdam, The Netherlands
 * Room:  HG-02A24
 
-The workshop will take place in the [main building](https://vu.nl/en/about-vu/more-about/vu-campus-map) of the Vrije Universiteit of Amsterdam. Room HG-02A24 is available on the second floor in the A-wing. 
-
-This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held at the Vrije Universiteit Amsterdam.
+This workshop is part of the fist International Conference on [Hybrid Human-Artificial Intelligence](https://www.hhai-conference.org), to be held at the Vrije Universiteit Amsterdam. The workshop will take place in the [main building](https://vu.nl/en/about-vu/more-about/vu-campus-map) of the Vrije Universiteit of Amsterdam. Room HG-02A24 is available on the second floor in the A-wing. 
 
 ![Human Agent Interaction](./images/ha-interaction.jpg)
 
