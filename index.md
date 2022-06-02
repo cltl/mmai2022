@@ -7,8 +7,26 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 ![Human Agent Interaction](./images/ha-interaction.jpg)
 
 
-### Program
-TO BE ANNOUNCED
+### Provisional Program
+
+| Time | Topic |
+| :--- | :--- |
+| 9:15 - 9:30 | Welcome |
+| 9:30 - 10:30 | Interaction session |
+| 10:30 - 12:00 |  papers |
+| Na Li and Robert Ross | Transferring Studies Across Embodiments: A Case Study in Confusion Detection |
+| Jūra Miniotaitė and André Pereira | Tabletop games as Multimodal Datasets for Social AI |
+| Thomas Baier, Selene Santamaria Baez and Piek Vossen | A modular architecture for creating multimodal agents |
+| 12:00 - 13:00 | lunch |
+| 13:00 - 14:00 | 2 papers |
+| Lucie Galland, Milene Guerreiro Goncalves and Catharine Oertel | Towards a personalized collaborator for Human-Robot creative ideation; Adapting conversational strategies to increase creativity |
+| André Meyer-Vitali and Wico Mulder | Trustworthy Hybrid Team Decision-Support Systems |
+| 14:00 - 15:00| Interaction analysis & discussion |
+| 15:00 - 15:15 | Break |
+| 15:15 - 16:15 | Panel on sharing multimodal interaction data |
+| 16:15 - 17:015| Keynote by Dan Bohus, Microsoft |
+| 17:15 - | Drinks
+
 
 ### Motivation
 Interaction is a real world event that takes place in time and physical or virtual space. By definition it only exists when it happens. This makes it difficult to observe and study interactions, to share interaction data, to replicate or reproduce them and to evaluate agent behavior in an objective way. Interactions are also extremely complex, covering many variables whose values change from case to case. The physical circumstances are different, the participants are different and past experiences have an impact on the actual event. Besides, the eye(s) of the camera(s) and/or experimenters are another factor with impact and the man-power needed to capture such data is high. Finally, privacy issues make it difficult to simply record and publish interaction data freely.
