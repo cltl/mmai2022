@@ -7,6 +7,13 @@ This workshop is part of the fist International Conference on [Hybrid Human-Arti
 
 ![Human Agent Interaction](./images/ha-interaction.jpg)
 
+You can also follow the meeting online:
+
+[Zoom Meeting](https://vu-live.zoom.us/j/94286633051?pwd=Q1BOQXhDTnZFZTBWdGRKdkIyblIrZz09)
+
+Meeting ID: 942 8663 3051
+Passcode: 804451
+
 
 ### Provisional Program, Room HG-02A24
 
