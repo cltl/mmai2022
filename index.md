@@ -43,8 +43,7 @@ Passcode: 804451
 | 14:00 - 15:00 | Interaction analysis & discussion: the interaction data that is collected in the morning and analysed through some tooling |
 | 15:00 - 15:15 | Break |
 | 15:15 - 16:15 | Panel on sharing multimodal interaction data: |
-| Topics | 
-* The current research and multi-modal data collection practices are detrimental to progressing HAI systems. 
+| Topics | * The current research and multi-modal data collection practices are detrimental to progressing HAI systems. 
 * We are going catastrophically wrong because....
 * Pre-trained models never work  reliably in in-the-wild situations. 
 * What are the (multi-modal) challenges that we need to overcome?
