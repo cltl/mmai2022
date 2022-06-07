@@ -43,6 +43,15 @@ Passcode: 804451
 | 14:00 - 15:00 | Interaction analysis & discussion: the interaction data that is collected in the morning and analysed through some tooling |
 | 15:00 - 15:15 | Break |
 | 15:15 - 16:15 | Panel on sharing multimodal interaction data (details follow soon) |
+| Topics | 
+* The current research and multi-modal data collection practices are detrimental to progressing HAI systems. 
+* We are going catastrophically wrong because....
+* Pre-trained models never work  reliably in in-the-wild situations. 
+* What are the (multi-modal) challenges that we need to overcome?
+* What could we do to fix the problem (how could data be shared?)
+* Can we share data without violating privacy and how should consent be given?
+* How to ensure reproducibility of experiments (data collection)
+* How to analyze data and the discussion of metrics that could be re-used to make studies comparable. |
 | 16:15 - 17:15| Keynote by Dan Bohus, Microsoft | Physically Situated Interaction: Opportunities and Challenges |
 | Abstract | Real-world deployments of physically situated interactive systems often bring to the fore important challenges that are not always, or not immediately visible in laboratory controlled settings. In the first part of this presentation, using vignettes from work done over the last decade at Microsoft Research, I will showcase a few such challenges and opportunities in the space of physically situated language interaction. Then, in the second part of the talk, I will pivot to some of the engineering challenges that often arise in constructing and deploying systems in the open-world, and briefly present an open-source framework that aims to accelerate development and research for multimodal interactive systems. |
 | 17:15 - | Drinks
