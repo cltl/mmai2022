@@ -15,7 +15,7 @@ Meeting ID: 942 8663 3051
 Passcode: 804451
 
 
-### Provisional Program, Room HG-02A24
+### Program, Room HG-02A24
 
 | Time | Title & Abstract |
 | :------ | :------ |
