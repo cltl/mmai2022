@@ -14,6 +14,7 @@ You can also follow the meeting online:
 Meeting ID: 942 8663 3051
 Passcode: 804451
 
+(!!) Note that the keynote talk by Dan Bohus will be given online but will NOT be streamed.
 
 ### Program, Room HG-02A24
 
